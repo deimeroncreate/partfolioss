@@ -26,12 +26,23 @@ html{
     
 }
 
+
 .bird{
     position: absolute;
      width: 50px;
     top: 600px;
     left:100px;
+        transition: 2s linear ;
 }
+
+.bird:hover {
+    position: absolute;
+     width: 60px;
+    top: 630px;
+    left:150px;
+        transition: 2s linear ;
+}
+
 
 .cloud{
     position: absolute;
