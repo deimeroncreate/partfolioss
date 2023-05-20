@@ -119,6 +119,15 @@ html{
    width: 50px;
     top: 1290px;
     left:490px;
+      transition: 0.6s linear ;
+}
+
+.bird2:hover{
+    position: absolute;
+   width: 55px;
+    top: 1290px;
+    left:500px;
+      transition: 0.6s linear ;
 }
 
 .backtext{
