@@ -1,0 +1,403 @@
+body {
+    font-family: sans-serif;
+    background-color: #C5ACD5;
+}
+
+.logo{
+    position: absolute;
+    top: 0;
+    left:0;
+}
+
+html{
+    background-color: #C5ACD5;
+}
+
+.nick {
+     position:absolute;
+    top: 0;
+    left:60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.balloon1 {
+position:absolute;
+    top: 190px;
+    left:120px;
+     transition: 0.6s linear ;
+}
+
+.balloon1:hover {
+    position:absolute;
+    top: 170px;
+    left:120px;
+  transition: 0.6s linear; 
+}
+
+
+.Hello {
+    position:absolute;
+    top: 325px;
+    left:50px;
+}
+
+.Hello h1 {
+   text-align: center; 
+}
+
+.balloon2 {
+position:absolute;
+    top: 400px;
+    left:700px;
+      transition: 0.6s linear;
+}
+
+.balloon2:hover {
+    position:absolute;
+    top: 380px;
+    left:700px;
+  transition: 0.6s linear; 
+}
+.name {
+position:absolute;
+    top: 530px;
+    left:600px;
+    width: 300px;
+
+}
+
+.name h1{
+text-align: center;
+}
+
+.balloon3 {
+position:absolute;
+    top: 630px;
+    left:140px;
+      transition: 0.6s linear;
+}
+
+ .balloon3:hover {
+    position:absolute;
+     top: 610px;
+    left:140px;
+  transition: 0.6s linear; 
+}
+
+.designer {
+    position:absolute;
+    top: 760px;
+    left:0px;
+    width: 400px
+}
+
+.designer h1 {
+text-align: center;
+}
+
+.bird {
+ position: absolute;
+    top: 200px;
+    left:460px;
+    transition: 0.6s linear;
+    
+}
+
+ .bird4   {
+ position: absolute;
+    top: 1000px;
+    left:350px;
+} 
+
+
+.bird3 {
+ position: absolute;
+    top:730px;
+    left:460px;
+    transition: 0.6s linear;
+    
+}
+
+.bird3:hover {
+    position: absolute;
+    top:740px;
+    left:460px;
+    transition: 1s linear;
+}
+
+.bird:hover {
+ position: absolute;
+    top: 200px;
+    left:480px;
+      transition: 0.6s linear;
+}
+
+.bird5 {
+ position: absolute;
+    top: 1150px;
+    left:155px;
+} 
+
+.bird6 {
+ position: absolute;
+    top: 1200px;
+    left:505px;
+} 
+
+.bird7 {
+ position: absolute;
+    top: 1470px;
+    left:505px;
+} 
+
+.bird8 {
+ position: absolute;
+    top: 1444px;
+    left:105px;
+} 
+
+.cloud {
+ position: absolute;
+    top: 20px;
+    left:800px;
+} 
+
+.cloud2 {
+ position: absolute;
+    top: 100px;
+    left:600px;
+} 
+
+.cloud3 {
+ position: absolute;
+    top: 80px;
+    left:300px;
+} 
+
+.cloud4 {
+ position: absolute;
+    top: 200px;
+    left:0px;
+} 
+
+.cloud5 {
+ position: absolute;
+    top: 300px;
+    left:500px;
+} 
+
+.cloud6 {
+ position: absolute;
+    top: 250px;
+    left:690px;
+} 
+
+.cloud7 {
+ position: absolute;
+    top: 450px;
+    left:400px;
+} 
+
+.cloud8 {
+ position: absolute;
+    top: 480px;
+    left:600px;
+} 
+.cloud9 {
+ position: absolute;
+    top: 500px;
+    left:100px;
+} 
+
+.cloud10 {
+ position: absolute;
+    top: 580px;
+    left:333px;
+} 
+
+.cloud11 {
+ position: absolute;
+    top: 670px;
+    left:600px;
+} 
+
+.cloud12 {
+ position: absolute;
+    top: 870px;
+    left:450px;
+} 
+
+
+.cloud13 {
+ position: absolute;
+    top: 1000px;
+    left:160px;
+} 
+
+.cloud14 {
+ position: absolute;
+    top: 1170px;
+    left:300px;
+} 
+
+.cloud15 {
+ position: absolute;
+    top: 1270px;
+    left:700px;
+} 
+.cloud16 {
+ position: absolute;
+    top: 1270px;
+    left:100px;
+} 
+
+.cloud17 {
+ position: absolute;
+    top: 970px;
+    left:760px;
+} 
+
+.cloud18 {
+ position: absolute;
+    top: 1170px;
+    left:560px;
+} 
+
+.cloud19 {
+ position: absolute;
+    top: 1370px;
+    left:210px;
+} 
+
+.cloud20 {
+ position: absolute;
+    top: 1400px;
+    left:610px;
+} 
+
+.ball {
+ position: absolute;
+    top: 1300px;
+    left:450px;
+} 
+
+.ball2 {
+ position: absolute;
+    top: 1090px;
+    left:650px;
+} 
+
+.youtube {
+ position: absolute;
+    top: 1350px;
+    left:455px;
+} 
+
+.wk {
+ position: absolute;
+    top: 1150px;
+    left:655px;
+} 
+
+.birdthegame {
+     position: absolute;
+    top: 400px;
+    left:555px;
+   
+}
+
+
+body{
+   position: absolute;
+   left: 20%;
+   right: 20%;
+}
+
+
+.bird2 {
+     position: absolute;
+    top: 500px;
+    left:260px;
+    transition: 3s linear;
+     
+}
+
+.bird2:hover {
+     position: absolute;
+    top: 0px;
+    left:260px;
+     transition: 120s linear;
+}
+
+.lighthouse {
+    position: absolute;
+    width: 200px;
+    top: 1390px;
+    left:750px;
+} 
+
+.water {
+    position: absolute;
+    width: 200px;
+    top: 1720px;
+    left:670px;
+} 
+
+.water2 {
+    position: absolute;
+    width: 200px;
+    top: 1720px;
+    left:505px;
+} 
+.water3 {
+    position: absolute;
+    width: 200px;
+    top: 1720px;
+    left:340px;
+} 
+.water4 {
+    position: absolute;
+    width: 200px;
+    top: 1720px;
+    left:175px;
+} 
+.water5 {
+    position: absolute;
+    width: 200px;
+    top: 1720px;
+    left:10px;
+} 
+
+
+
+.ship {
+    position: absolute;
+    width: 250px;
+    top: 1600px;
+    left:175px;
+     transition: 10s linear;
+} 
+
+.ship:hover {
+    position: absolute;
+    width: 250px;
+    top: 1600px;
+    left:15px;
+     transition: 6s linear;
+} 
+
+.go {
+    position: absolute;
+    width: 250px;
+    top: 1680px;
+    left:405px;
+} 
+
+.click {
+    position: absolute;
+    width: 150px;
+    top: 1715px;
+    left:500px;
+} 
+
+
