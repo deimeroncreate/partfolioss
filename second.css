@@ -1,0 +1,213 @@
+body {
+    font-family: sans-serif;
+}
+body{
+   position: absolute;
+   left: 18%;
+   right: 20%;
+}
+html{
+    background-color: #C5ACD5;
+}
+
+.back{
+    position: absolute;
+     width: 80px;
+    top: 0;
+    left:0;
+    transition: 0.6s linear ;
+}
+
+.back:hover {
+     position: absolute;
+     width: 85px;
+    top: 0;
+    left:0;
+    
+}
+
+.bird{
+    position: absolute;
+     width: 50px;
+    top: 600px;
+    left:100px;
+}
+
+.cloud{
+    position: absolute;
+     width: 70px;
+    top: 200px;
+    left:900px;
+}
+
+.cloud2{
+    position: absolute;
+     width: 70px;
+    top: 400px;
+    left:600px;
+}
+
+.cloud3{
+    position: absolute;
+     width: 70px;
+    top: 500px;
+    left:300px;
+}
+
+.cloud4{
+    position: absolute;
+     width: 70px;
+    top: 950px;
+    left:750px;
+}
+
+.cloud5{
+    position: absolute;
+     width: 70px;
+    top: 750px;
+    left:150px;
+}
+
+.cloud6{
+    position: absolute;
+   width: 70px;
+    top: 1050px;
+    left:950px;
+}
+
+.cloud7{
+    position: absolute;
+   width: 70px;
+    top: 1250px;
+    left:750px;
+}
+
+.cloud8{
+    position: absolute;
+   width: 70px;
+    top: 1350px;
+    left:150px;
+}
+
+.cloud9{
+    position: absolute;
+   width: 70px;
+    top: 1390px;
+    left:490px;
+}
+
+.cloud10{
+    position: absolute;
+   width: 70px;
+    top: 1390px;
+    left:990px;
+}
+
+.bird2{
+    position: absolute;
+   width: 50px;
+    top: 1290px;
+    left:490px;
+}
+
+.backtext{
+    position: absolute;
+     width: 60px;
+    top: 60px;
+    left:15px;
+}
+
+.mysite{
+    position: absolute;
+     width: 400px;
+    top: 10px;
+    left:355px;
+}
+.png0{
+    position: absolute;
+     width: 200px;
+    top: 50px;
+    left:435px;
+}
+
+.mysite1{
+    position: absolute;
+     width: 500px;
+    top: 150px;
+    left:35px;
+}
+
+
+.bitmarket{
+    position: absolute;
+     width: 200px;
+    top: 400px;
+    left:155px;
+      transition: 0.6s linear ;
+}
+
+.bitmarket:hover{
+    position: absolute;
+     width: 210px;
+    top: 400px;
+    left:155px;
+      transition: 0.6s linear ;
+}
+
+.png1{
+    position: absolute;
+     width: 200px;
+    top: 440px;
+    left:155px;
+}
+
+
+
+
+.mysite2{
+    position: absolute;
+     width: 500px;
+    top: 500px;
+    left:595px;
+}
+
+.png2{
+    position: absolute;
+      width: 200px;
+    top: 800px;
+    left:745px;
+}
+
+.mysite3{
+    position: absolute;
+     width: 500px;
+    top: 900px;
+    left:35px;
+}
+
+.png3{
+    position: absolute;
+      width: 200px;
+    top: 1200px;
+    left:155px;
+}
+
+
+.png10{
+    position: absolute;
+     width: 10px;
+    top: 1500px;
+    left:595px;
+}
+
+.designer {
+    position:absolute;
+    top: 760px;
+    left:595px;
+    width: 400px
+}
+
+.designer h1 {
+text-align: center;
+}
+
